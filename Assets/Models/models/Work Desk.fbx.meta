@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: b3df48390b5c07c49b9e50e2d7902233
+timeCreated: 1488373410
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: backnurbsCube1
+    100002: backnurbsCube1 1
+    100004: backnurbsCube1 2
+    100006: bend1Handle
+    100008: bend2Handle
+    100010: bottomCap1
+    100012: bottomCap1 1
+    100014: bottomCap1 2
+    100016: bottomCap1 3
+    100018: bottomnurbsCube1
+    100020: bottomnurbsCube1 1
+    100022: bottomnurbsCube1 2
+    100024: Box001
+    100026: Box002
+    100028: frontnurbsCube1
+    100030: frontnurbsCube1 1
+    100032: frontnurbsCube1 2
+    100034: leftnurbsCube1
+    100036: leftnurbsCube1 1
+    100038: leftnurbsCube1 2
+    100040: Line001
+    100042: nurbsCube1
+    100044: nurbsCube2
+    100046: nurbsCube3
+    100048: nurbsCube4
+    100050: nurbsCube5
+    100052: nurbsCube6
+    100054: nurbsCylinder1
+    100056: nurbsCylinder3
+    100058: nurbsCylinder5
+    100060: nurbsCylinder7
+    100062: pCube1
+    100064: pCube10
+    100066: pCube11
+    100068: pCube12
+    100070: pCube13
+    100072: pCube14
+    100074: pCube15
+    100076: pCube16
+    100078: pCube17
+    100080: pCube18
+    100082: pCube19
+    100084: pCube2
+    100086: pCube3
+    100088: pCube4
+    100090: pCube5
+    100092: pCube6
+    100094: pCube7
+    100096: pCube8
+    100098: pCube9
+    100100: pCylinder1
+    100102: pCylinder2
+    100104: pSphere1
+    100106: pSphere2
+    100108: pSphere3
+    100110: pTorus2
+    100112: pTorus3
+    100114: rightnurbsCube1
+    100116: rightnurbsCube1 1
+    100118: rightnurbsCube1 2
+    100120: Sky001
+    100122: topCap1
+    100124: topCap1 1
+    100126: topCap1 2
+    100128: topCap1 3
+    100130: topnurbsCube1
+    100132: topnurbsCube2
+    100134: topnurbsCube2 1
+    100136: topnurbsCube2 2
+    100138: TPhotometricLight001
+    100140: TPhotometricLight001.Target
+    100142: transform1
+    100144: transform2
+    100146: transform3
+    100148: transform4
+    100150: transform5
+    100152: transform6
+    100154: transform7
+    100156: //RootNode
+    400000: backnurbsCube1
+    400002: backnurbsCube1 1
+    400004: backnurbsCube1 2
+    400006: bend1Handle
+    400008: bend2Handle
+    400010: bottomCap1
+    400012: bottomCap1 1
+    400014: bottomCap1 2
+    400016: bottomCap1 3
+    400018: bottomnurbsCube1
+    400020: bottomnurbsCube1 1
+    400022: bottomnurbsCube1 2
+    400024: Box001
+    400026: Box002
+    400028: frontnurbsCube1
+    400030: frontnurbsCube1 1
+    400032: frontnurbsCube1 2
+    400034: leftnurbsCube1
+    400036: leftnurbsCube1 1
+    400038: leftnurbsCube1 2
+    400040: Line001
+    400042: nurbsCube1
+    400044: nurbsCube2
+    400046: nurbsCube3
+    400048: nurbsCube4
+    400050: nurbsCube5
+    400052: nurbsCube6
+    400054: nurbsCylinder1
+    400056: nurbsCylinder3
+    400058: nurbsCylinder5
+    400060: nurbsCylinder7
+    400062: pCube1
+    400064: pCube10
+    400066: pCube11
+    400068: pCube12
+    400070: pCube13
+    400072: pCube14
+    400074: pCube15
+    400076: pCube16
+    400078: pCube17
+    400080: pCube18
+    400082: pCube19
+    400084: pCube2
+    400086: pCube3
+    400088: pCube4
+    400090: pCube5
+    400092: pCube6
+    400094: pCube7
+    400096: pCube8
+    400098: pCube9
+    400100: pCylinder1
+    400102: pCylinder2
+    400104: pSphere1
+    400106: pSphere2
+    400108: pSphere3
+    400110: pTorus2
+    400112: pTorus3
+    400114: rightnurbsCube1
+    400116: rightnurbsCube1 1
+    400118: rightnurbsCube1 2
+    400120: Sky001
+    400122: topCap1
+    400124: topCap1 1
+    400126: topCap1 2
+    400128: topCap1 3
+    400130: topnurbsCube1
+    400132: topnurbsCube2
+    400134: topnurbsCube2 1
+    400136: topnurbsCube2 2
+    400138: TPhotometricLight001
+    400140: TPhotometricLight001.Target
+    400142: transform1
+    400144: transform2
+    400146: transform3
+    400148: transform4
+    400150: transform5
+    400152: transform6
+    400154: transform7
+    400156: //RootNode
+    2300000: Box001
+    2300002: Box002
+    2300004: Line001
+    2300006: pCube1
+    2300008: pCube11
+    2300010: pCube12
+    2300012: pCube13
+    2300014: pCube14
+    2300016: pCube15
+    2300018: pCube16
+    2300020: pCube17
+    2300022: pCube18
+    2300024: pCube19
+    2300026: pCube2
+    2300028: pCube3
+    2300030: pCube4
+    2300032: pCube7
+    2300034: pCube8
+    2300036: pCube9
+    2300038: pSphere1
+    2300040: pSphere2
+    2300042: pSphere3
+    3300000: Box001
+    3300002: Box002
+    3300004: Line001
+    3300006: pCube1
+    3300008: pCube11
+    3300010: pCube12
+    3300012: pCube13
+    3300014: pCube14
+    3300016: pCube15
+    3300018: pCube16
+    3300020: pCube17
+    3300022: pCube18
+    3300024: pCube19
+    3300026: pCube2
+    3300028: pCube3
+    3300030: pCube4
+    3300032: pCube7
+    3300034: pCube8
+    3300036: pCube9
+    3300038: pSphere1
+    3300040: pSphere2
+    3300042: pSphere3
+    4300000: pCube1
+    4300002: pCube2
+    4300004: pCube3
+    4300006: pCube4
+    4300008: pCube7
+    4300010: pCube8
+    4300012: pCube9
+    4300014: pCube11
+    4300016: pCube12
+    4300018: pCube13
+    4300020: pCube14
+    4300022: pCube15
+    4300024: pCube16
+    4300026: pCube17
+    4300028: pCube18
+    4300030: pCube19
+    4300032: pSphere1
+    4300034: pSphere2
+    4300036: pSphere3
+    4300038: Line001
+    4300040: Box002
+    4300042: Box001
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

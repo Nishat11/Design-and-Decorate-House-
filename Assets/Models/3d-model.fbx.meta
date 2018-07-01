@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: c14594fb3c55c5a41b3825997e99fb47
+timeCreated: 1487328636
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Group#210_001
+    100004: Group#210_002
+    100006: Group#248_001
+    100008: Group#248_002
+    100010: Group#248_003
+    100012: Group#248_004
+    100014: Group#248_005
+    100016: Group#248_006
+    100018: Group#249_001
+    100020: Group#249_002
+    100022: Group#251_001
+    100024: Group#251_002
+    100026: Group_001
+    100028: Group_002
+    100030: Orman_120#1_001
+    100032: Orman_120#2_001
+    100034: Wire Pull/2_001
+    100036: Wire Pull/2_002
+    100038: Wire Pull/2_003
+    100040: Wire Pull/2_004
+    100042: Wire Pull/2_005
+    100044: Wire Pull/2_006
+    100046: Wire Pull/2_007
+    100048: Wire Pull/2_008
+    100050: Wire Pull/2_009
+    100052: Wire Pull/2_010
+    100054: Wire Pull/2_011
+    100056: Wire Pull/2_012
+    100058: Wire Pull/2_013
+    100060: Wire Pull/2_014
+    100062: Wire Pull/2_015
+    100064: Wire Pull/2_016
+    100066: Wire Pull/2_017
+    100068: Wire Pull/2_018
+    100070: Wire Pull/2_019
+    100072: Wire Pull/2_020
+    400000: //RootNode
+    400002: Group#210_001
+    400004: Group#210_002
+    400006: Group#248_001
+    400008: Group#248_002
+    400010: Group#248_003
+    400012: Group#248_004
+    400014: Group#248_005
+    400016: Group#248_006
+    400018: Group#249_001
+    400020: Group#249_002
+    400022: Group#251_001
+    400024: Group#251_002
+    400026: Group_001
+    400028: Group_002
+    400030: Orman_120#1_001
+    400032: Orman_120#2_001
+    400034: Wire Pull/2_001
+    400036: Wire Pull/2_002
+    400038: Wire Pull/2_003
+    400040: Wire Pull/2_004
+    400042: Wire Pull/2_005
+    400044: Wire Pull/2_006
+    400046: Wire Pull/2_007
+    400048: Wire Pull/2_008
+    400050: Wire Pull/2_009
+    400052: Wire Pull/2_010
+    400054: Wire Pull/2_011
+    400056: Wire Pull/2_012
+    400058: Wire Pull/2_013
+    400060: Wire Pull/2_014
+    400062: Wire Pull/2_015
+    400064: Wire Pull/2_016
+    400066: Wire Pull/2_017
+    400068: Wire Pull/2_018
+    400070: Wire Pull/2_019
+    400072: Wire Pull/2_020
+    2300000: Group#210_001
+    2300002: Group#210_002
+    2300004: Group#248_001
+    2300006: Group#248_002
+    2300008: Group#248_003
+    2300010: Group#248_004
+    2300012: Group#248_005
+    2300014: Group#248_006
+    2300016: Group#249_001
+    2300018: Group#249_002
+    2300020: Group#251_001
+    2300022: Group#251_002
+    2300024: Group_001
+    2300026: Group_002
+    2300028: Orman_120#1_001
+    2300030: Orman_120#2_001
+    2300032: Wire Pull/2_001
+    2300034: Wire Pull/2_002
+    2300036: Wire Pull/2_003
+    2300038: Wire Pull/2_004
+    2300040: Wire Pull/2_005
+    2300042: Wire Pull/2_006
+    2300044: Wire Pull/2_007
+    2300046: Wire Pull/2_008
+    2300048: Wire Pull/2_009
+    2300050: Wire Pull/2_010
+    2300052: Wire Pull/2_011
+    2300054: Wire Pull/2_012
+    2300056: Wire Pull/2_013
+    2300058: Wire Pull/2_014
+    2300060: Wire Pull/2_015
+    2300062: Wire Pull/2_016
+    2300064: Wire Pull/2_017
+    2300066: Wire Pull/2_018
+    2300068: Wire Pull/2_019
+    2300070: Wire Pull/2_020
+    3300000: Group#210_001
+    3300002: Group#210_002
+    3300004: Group#248_001
+    3300006: Group#248_002
+    3300008: Group#248_003
+    3300010: Group#248_004
+    3300012: Group#248_005
+    3300014: Group#248_006
+    3300016: Group#249_001
+    3300018: Group#249_002
+    3300020: Group#251_001
+    3300022: Group#251_002
+    3300024: Group_001
+    3300026: Group_002
+    3300028: Orman_120#1_001
+    3300030: Orman_120#2_001
+    3300032: Wire Pull/2_001
+    3300034: Wire Pull/2_002
+    3300036: Wire Pull/2_003
+    3300038: Wire Pull/2_004
+    3300040: Wire Pull/2_005
+    3300042: Wire Pull/2_006
+    3300044: Wire Pull/2_007
+    3300046: Wire Pull/2_008
+    3300048: Wire Pull/2_009
+    3300050: Wire Pull/2_010
+    3300052: Wire Pull/2_011
+    3300054: Wire Pull/2_012
+    3300056: Wire Pull/2_013
+    3300058: Wire Pull/2_014
+    3300060: Wire Pull/2_015
+    3300062: Wire Pull/2_016
+    3300064: Wire Pull/2_017
+    3300066: Wire Pull/2_018
+    3300068: Wire Pull/2_019
+    3300070: Wire Pull/2_020
+    4300000: Wire Pull/2_020
+    4300002: Wire Pull/2_019
+    4300004: Group#210_002
+    4300006: Wire Pull/2_018
+    4300008: Wire Pull/2_017
+    4300010: Group#248_006
+    4300012: Wire Pull/2_016
+    4300014: Wire Pull/2_015
+    4300016: Group#248_005
+    4300018: Wire Pull/2_014
+    4300020: Wire Pull/2_013
+    4300022: Group#248_004
+    4300024: Wire Pull/2_012
+    4300026: Wire Pull/2_011
+    4300028: Group#249_002
+    4300030: Group#251_002
+    4300032: Group_002
+    4300034: Orman_120#2_001
+    4300036: Wire Pull/2_010
+    4300038: Wire Pull/2_009
+    4300040: Group#210_001
+    4300042: Wire Pull/2_008
+    4300044: Wire Pull/2_007
+    4300046: Group#248_003
+    4300048: Wire Pull/2_006
+    4300050: Wire Pull/2_005
+    4300052: Group#248_002
+    4300054: Wire Pull/2_004
+    4300056: Wire Pull/2_003
+    4300058: Group#248_001
+    4300060: Wire Pull/2_002
+    4300062: Wire Pull/2_001
+    4300064: Group#249_001
+    4300066: Group#251_001
+    4300068: Group_001
+    4300070: Orman_120#1_001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

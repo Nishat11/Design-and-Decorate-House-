@@ -1,0 +1,19 @@
+# MTL written from D:\PROJECT 3D Asset Store\Furniture\Table2\Table and Glasses.obj
+newmtl Default
+map_Kd D:\PROJECT 3D Asset Store\Furniture\Table2\Texture.JPG
+newmtl Glasses
+Kd 0 0 0
+Ns 256
+d 0.595
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+map_Kd D:\PROJECT 3D Asset Store\Furniture\Table2\Texture.JPG
+newmtl Iron
+Kd 0.446688 0.446688 0.446688
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+map_Kd D:\PROJECT 3D Asset Store\Furniture\Table2\Texture.JPG
